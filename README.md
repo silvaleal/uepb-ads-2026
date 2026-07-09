@@ -1,2 +1,13 @@
 # UEPB ADS 2026
-Repositório com dicas e anotações para estudos da faculdade
+Repositório dedicado ao conteúdo do curso de Análise e Desenvolvimento de Sistemas (ADS) da UEPB, reunindo anotações, resumos, exercícios, listas de assuntos, dicas de estudo e materiais de apoio utilizados ao longo da graduação.
+
+O objetivo deste repositório é centralizar os conteúdos estudados durante a faculdade, facilitar revisões futuras e registrar minha evolução acadêmica ao longo do curso.
+
+### Minhas dicas
+- [Em breve](https://exemplo.com)
+
+### Assuntos
+- [Em breve](https://exemplo.com)
+
+### Material extra
+- [Em breve](https://exemplo.com)
