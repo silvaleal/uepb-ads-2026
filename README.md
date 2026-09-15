@@ -10,4 +10,5 @@ O objetivo deste repositório é centralizar os conteúdos estudados durante a f
 - [Em breve](https://exemplo.com)
 
 ### Material extra
+- [Fundação Bradesco - Cursos pra preencher horas](https://www.ev.org.br/)
 - [Santander - Cursos pra preencher horas](https://lms.santanderopenacademy.com/courses/13/modules)
