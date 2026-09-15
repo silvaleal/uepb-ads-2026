@@ -10,4 +10,4 @@ O objetivo deste repositório é centralizar os conteúdos estudados durante a f
 - [Em breve](https://exemplo.com)
 
 ### Material extra
-- [Em breve](https://exemplo.com)
+- [Santander - Cursos pra preencher horas](https://lms.santanderopenacademy.com/courses/13/modules)
